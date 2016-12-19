@@ -1,2 +1,2 @@
 # BoltzMAnn
-A simulated-annealing-powered Boltzmann Machine
+A simulated-annealing-powered (optionally Restricted) Boltzmann Machine
