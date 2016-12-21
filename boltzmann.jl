@@ -1,6 +1,6 @@
 #!/usr/bin/julia
 
-# BoltzMAnn - A simulated-annealing-powered (Restricted) Boltzmann Machine
+# BoltzMAnn - A simulated-annealing-powered (Restricted) Boltzmann Machine [v. 0.1 alpha]
 # Copyright (c) 2016 Emanuele Ballarin <emanuele@ballarin.cc>
 # Software released under the terms of the MIT License
 
@@ -11,8 +11,36 @@
 # choice of the Julia language was determined as the optimal compromise between
 # runtime performance, conciseness, expressiveness and high-level clarity.
 
+
 ##############################################################################
-# Placeholder
+# Tweakables
 ##############################################################################
 
+
+
+##############################################################################
+# Custom functions
+##############################################################################
+
+
+
+##############################################################################
+# Initialization
+##############################################################################
+
+
+
+##############################################################################
+# Neural drive
+##############################################################################
+
+
+
+##############################################################################
+# Finalization
+##############################################################################
+
+
+
+## PLAYGROUND ##
 println("Hello! Work in progress...")
