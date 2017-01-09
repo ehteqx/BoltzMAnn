@@ -14,16 +14,16 @@ NLearnCycles = 2;           % Number of overall learning cycles
 Nexamples = 4;              % Number of different examples to learn from
 Nvisible = 3;               % Number of visible neurons
 Nhidden = 5;                % Number of hidden neurons
-Nensemble = 10;            % Number of different ensemble elements
-Ntimespan = 50;          % Timestep(s) duration of time-mean
+Nensemble = 10;             % Number of different ensemble elements
+Ntimespan = 50;             % Timestep(s) duration of time-mean
 LearnCoeff = 0.1;           % Learning coefficient
 IsRestricted = false;       % BOOLEAN: Is the machine "Restricted"?
 IsSelfish = false;          % BOOLEAN: Is the machine "Selfish"?
 
 % TWEAKABLE PARAMETERS (simulated annealer)
 Tstart = 1-eps;               % Starting temperature (must be < 1)
-SolSteps = 10;             % Steps to temperature dacay
-TDecay = 0.96;                % Temperature dacay factor
+SolSteps = 10;             % Steps to temperature decay
+TDecay = 0.96;                % Temperature decay factor
 AnnSteps = 10;             % Decay-steps to thermalization
 
 % PREALLOCATION
